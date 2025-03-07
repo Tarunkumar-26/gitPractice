@@ -1,2 +1,2 @@
 # gitPractice
-Hello i am tarun , I wanna be a dictator
+Hello i am tarun , I wanna be a hero 
